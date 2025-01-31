@@ -1,4 +1,4 @@
-###Learning collaboration with my amazing colleagues at GomyCode
+#Learning collaboration with my amazing colleagues at GomyCode
 
 
 Recap of the process:
