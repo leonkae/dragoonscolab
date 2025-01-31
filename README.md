@@ -5,7 +5,7 @@ Recap of the process:
 
 create local folder.
 - git init
-- git pull <repository link>
+- git clone <repository link>
 - git branch <your name>
 - git checkout
 - make your changes
